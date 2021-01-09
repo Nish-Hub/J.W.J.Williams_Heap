@@ -16,7 +16,7 @@ public class PriorityQueueImpl{
       }
     }
     
-    // Constructing a min heap using a priority queue with a comparator which arranges the elements in increasing order
+    // Constructing a max heap using a priority queue with a comparator which arranges the elements in increasing order
     
     PriorityQueue<Integer> maxHeapPq = new PriorityQueue<Integer>(initialCapacity,new Comparator<Integer>(){
       
