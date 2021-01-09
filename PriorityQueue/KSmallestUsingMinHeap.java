@@ -1,3 +1,5 @@
+//QUESTION 3:  Given an array of size N, Print K values which are smallest in the entire array, duplicates as well in the array, print them in any order.
+
 import java.util.*;
 /*
 For input : 11,2,13,4,500
